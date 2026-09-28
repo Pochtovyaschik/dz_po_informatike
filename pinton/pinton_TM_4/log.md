@@ -1,0 +1,16 @@
+# Pinton task manager
+## current ver: 4 Alpha
+
+### ver 1
+- Pinton ceated
+- Task viewing added
+- Adding tasks added
+
+### ver 2
+- More task managing options
+
+### ver 3
+- saving and loading tasks
+
+### ver 4
+- add description
