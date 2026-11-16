@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <title>Title</title>
+  </head>
+  <body>
+  <form method="POST" action="/reg">
+    <input type="text" name="reg_name" placeholder="username" required>
+    <input type="text" name="reg_pass" placeholder="password" required>
+    <button type="submit">submit</button>
+  </form>
+  {% if error %}
+    <h1>ERROR</h1>
+  {% endif %}
+  </body>
+</html>
